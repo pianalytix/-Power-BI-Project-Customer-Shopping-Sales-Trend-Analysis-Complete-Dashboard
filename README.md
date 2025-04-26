@@ -36,15 +36,6 @@ To follow along:
 
 ---
 
-## 📁 Repository Contents
-
-- `Customer_Shopping_Trend_Analysis.pbix` – Main Power BI file  
-- `Data/` – Sample dataset used in the tutorial  
-- `Images/` – Dashboard screenshots  
-- `README.md` – Documentation for the project  
-
----
-
 ## 🙌 Who Should Use This Project?
 
 - 🧑‍🎓 Beginners learning to create Power BI dashboards  
